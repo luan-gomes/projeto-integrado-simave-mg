@@ -1,0 +1,84 @@
+{
+  "anos": [
+    2016,
+    2019,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "redes": [
+    "ESTADUAL",
+    "MUNICIPAL"
+  ],
+  "etapas": [
+    "5º ANO EF",
+    "9º ANO EF"
+  ],
+  "disciplinas": [
+    "LINGUA PORTUGUESA",
+    "MATEMATICA"
+  ],
+  "conteudos_por_disciplina": {
+    "LINGUA PORTUGUESA": [
+      "DISTINGUIR UM FATO DE UMA OPINIAO EM UM TEXTO",
+      "Distinguir um fato da opinião relativa a esse fato.",
+      "IDENTIFICAR O TEMA OU O SENTIDO GLOBAL DE UM TEXTO",
+      "INFERIR INFORMACOES EM UM TEXTO",
+      "INFERIR O SENTIDO DE UMA PALAVRA OU EXPRESSAO EM UM TEXTO",
+      "Identificar o tema de um texto.",
+      "Inferir o sentido de uma palavra ou expressão.",
+      "Inferir uma informação implícita em um texto.",
+      "LOCALIZAR INFORMACOES EXPLICITAS EM UM TEXTO",
+      "Localizar informações explícitas em um texto."
+    ],
+    "MATEMATICA": [
+      "Associar informações apresentadas em listas e/ou tabelas simples aos gráficos que as representam e vice-versa.",
+      "CORRESPONDER DIFERENTES REPRESENTACOES DE UM NUMERO RACIONAL",
+      "CORRESPONDER LISTAS EOU TABELAS SIMPLES A GRAFICOS",
+      "Calcular o resultado de uma adição ou subtração de números naturais.",
+      "Calcular o resultado de uma multiplicação ou divisão de números naturais.",
+      "EFETUAR CALCULOS COM NUMEROS INTEIROS ENVOLVENDO AS OPERACOES ADICAO SUBTRACAO MULTIPLICACAO DIVISAO POTENCIACAO",
+      "EFETUAR CALCULOS QUE ENVOLVAM OPERACOES COM NUMEROS RACIONAIS ADICAO SUBTRACAO MULTIPLICACAO DIVISAO POTENCIACAO",
+      "EXECUTAR CALCULOS COM NUMEROS RACIONAIS",
+      "Efetuar cálculos com números inteiros, envolvendo as operações (adição, subtração, multiplicação, divisão, potenciação).",
+      "Efetuar cálculos que envolvam operações com números racionais (adição, subtração, multiplicação, divisão, potenciação).",
+      "IDENTIFICAR DADOS APRESENTADOS POR MEIO DE GRAFICOS",
+      "IDENTIFICAR FRACAO COMO REPRESENTACAO QUE PODE ESTAR ASSOCIADA A DIFERENTES SIGNIFICADOS",
+      "IDENTIFICAR FRACOES EQUIVALENTES",
+      "IDENTIFICAR INFORMACOES A PARTIR DE DADOS DISPOSTOS EM TABELAS",
+      "Identificar a localização de números racionais na reta numérica.",
+      "Identificar a localização de números racionais representados na forma decimal na reta numérica.",
+      "Identificar diferentes representações de um mesmo número racional.",
+      "Identificar fração como representação que pode estar associada a diferentes significados.",
+      "Identificar frações equivalentes.",
+      "Ler informações e dados apresentados em gráficos (particularmente em gráficos de colunas).",
+      "Ler informações e dados apresentados em tabelas.",
+      "RECONHECER AS REPRESENTACOES DECIMAIS DOS NUMEROS RACIONAIS COMO UMA EXTENSAO DO SISTEMA DE NUMERACAO DECIMAL IDENTIFICANDO A EXISTENCIA DE ORDENS COMO DECIMOS CENTESIMOS E MILESIMOS",
+      "RECONHECER FRACAO COMO REPRESENTACAO ASSOCIADA A DIFERENTES SIGNIFICADOS",
+      "RESOLVER PROBLEMA COM NUMEROS INTEIROS ENVOLVENDO AS OPERACOES ADICAO SUBTRACAO MULTIPLICACAO DIVISAO POTENCIACAO",
+      "RESOLVER PROBLEMA COM NUMEROS NATURAIS ENVOLVENDO DIFERENTES SIGNIFICADOS DAS OPERACOES ADICAO SUBTRACAO MULTIPLICACAO DIVISAO POTENCIACAO",
+      "Reconhecer as diferentes representações de um número racional.",
+      "Reconhecer as representações decimais dos números racionais como uma extensão do sistema de numeração decimal, identificando a existência de \"ordens\" como décimos, centésimos e milésimos.",
+      "Resolver problema com números inteiros envolvendo as operações (adição, subtração, multiplicação, divisão, potenciação).",
+      "Resolver problema com números naturais, envolvendo diferentes significados da adição ou subtração: juntar, alteração de um estado inicial (positiva ou negativa), comparação e mais de uma transforma...",
+      "Resolver problema com números naturais, envolvendo diferentes significados da multiplicação ou divisão: multiplicação comparativa, ideia de proporcionalidade, configuração retangular e combinatória.",
+      "Resolver problema com números naturais, envolvendo diferentes significados das operações (adição, subtração, multiplicação, divisão, potenciação).",
+      "Resolver problema com números racionais envolvendo as operações (adição, subtração, multiplicação, divisão, potenciação).",
+      "Resolver problema com números racionais expressos na forma decimal envolvendo diferentes significados da adição ou subtração.",
+      "Resolver problema envolvendo informações apresentadas em tabelas e/ou gráficos.",
+      "Resolver problema envolvendo noções de porcentagem (25%, 50%, 100%).",
+      "Resolver problema que envolva porcentagem.",
+      "UTILIZAR DADOS APRESENTADOS EM TABELAS OU GRAFICOS NA RESOLUCAO DE PROBLEMAS",
+      "UTILIZAR NUMEROS NATURAIS ENVOLVENDO DIFERENTES SIGNIFICADOS DA ADICAO OU DA SUBTRACAO NA RESOLUCAO DE PROBLEMAS",
+      "UTILIZAR NUMEROS NATURAIS ENVOLVENDO DIFERENTES SIGNIFICADOS DA ADICAO OU SUBTRACAO NA RESOLUCAO DE PROBLEMAS",
+      "UTILIZAR NUMEROS NATURAIS ENVOLVENDO DIFERENTES SIGNIFICADOS DA MULTIPLICACAO OU DA DIVISAO NA RESOLUCAO DE PROBLEMAS",
+      "UTILIZAR NUMEROS NATURAIS ENVOLVENDO DIFERENTES SIGNIFICADOS DA MULTIPLICACAO OU DIVISAO NA RESOLUCAO DE PROBLEMAS",
+      "UTILIZAR NUMEROS RACIONAIS ENVOLVENDO DIFERENTES SIGNIFICADOS DAS OPERACOES NA RESOLUCAO DE PROBLEMAS",
+      "UTILIZAR NUMEROS RACIONAIS EXPRESSOS NA FORMA DECIMAL ENVOLVENDO DIFERENTES SIGNIFICADOS DA ADICAO EOU SUBTRACAO NA RESOLUCAO DE PROBLEMAS",
+      "UTILIZAR NUMEROS RACIONAIS EXPRESSOS NA FORMA DECIMAL ENVOLVENDO MULTIPLICACAO OU DIVISAO NA RESOLUCAO DE PROBLEMAS",
+      "UTILIZAR PORCENTAGEM NA RESOLUCAO DE PROBLEMA",
+      "UTILIZAR RELACOES DE PROPORCIONALIDADE ENTRE DUAS OU MAIS GRANDEZAS NA RESOLUCAO DE PROBLEMA"
+    ]
+  }
+}
